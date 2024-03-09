@@ -6,7 +6,7 @@ import reducer from "./store/reducer"
 import { Provider } from "react-redux"
 import Hook from "./components/Hook"
 import { useState } from "react";
-
+ 
 
 const store = createStore(reducer)
 
